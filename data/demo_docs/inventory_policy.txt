@@ -1,0 +1,19 @@
+SMART RETAIL - SAMPLE INVENTORY POLICY
+
+1. Reorder planning
+The store should review replenishment needs at least once per day. A reorder recommendation should consider forecast demand during the supplier lead time and a separate safety-stock buffer. The basic reorder point is expected demand during lead time plus safety stock.
+
+2. Dairy and chilled products
+Milk, eggs and other chilled products must be stored in the appropriate refrigerated area. Staff should rotate stock using the first-expiry-first-out (FEFO) principle. Products close to their expiry date should be highlighted for review and markdown according to store policy.
+
+3. Supplier lead time
+Each product should have a supplier lead time recorded in the inventory system. If the supplier lead time changes, the inventory record should be updated before the next reorder calculation.
+
+4. Promotions
+Promotional periods can increase demand. The forecasting process should include discount and promotion information where available. Store managers should review model forecasts before placing unusually large orders.
+
+5. Model limitations
+Demand forecasts are estimates based on historical patterns. They may be less reliable during new product launches, major promotions, supply interruptions or unusual events. A manager must review forecasts alongside current stock, supplier constraints and local knowledge.
+
+6. Data quality
+Sales records should have a valid product, sale date, units sold and selling price. Missing dates should be treated carefully; a date with no transaction should not automatically be interpreted as missing data unless the source system confirms that the store was open and data collection was operational.
